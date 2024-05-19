@@ -1,7 +1,11 @@
 ## How to run frontend server.
 
-First, run the development server:
+First, install needed npm  dependencies:
+```bash
+npm install
+```
 
+Second, run the development server:
 ```bash
 npm run dev
 ```
